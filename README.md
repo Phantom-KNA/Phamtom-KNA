@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on [WikiMedia](https://github.com/Phantom-KNA/WikiMedia)
 
-- 💬 Ask me about **C#,.NET MAUI, XamarinForms, JavaScript, React, React Native**
+- 💬 Ask me about
+ **C#,.NET MAUI, XamarinForms, JavaScript, React, React Native**
 
 - 📫 How to reach me **rgavilaneslara@gmail.com**
 
-- ⚡ Fun fact **Our job is to make a technology easier for people...**
+- ⚡ Fun fact
+ **Our job is to make a technology easier for people...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
