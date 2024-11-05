@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WikiMedia](https://github.com/Phantom-KNA/WikiMedia)
 
-- 💬 Ask me about **C#,.NET MAUI, XamarinForms**
+- 💬 Ask me about **C#,.NET MAUI, XamarinForms, JavaScript, React, React Native**
 
 - 📫 How to reach me **rgavilaneslara@gmail.com**
 
